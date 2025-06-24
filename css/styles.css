@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
 
 * {
-  padding: 0;
+  padding: 0px;
   margin: 0;
   box-sizing: border-box;
 }
@@ -72,9 +72,9 @@ body {
 }
 
 .whyYLetter {
-  font-size: 60px;
+  font-size: 50px;
   font-weight: normal;
-  color: coral;
+  color: rgb(8, 3, 18);
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -83,54 +83,142 @@ body {
 /* DID word */
 
 .didDLetter {
+font-size: 60px;
+font-weight: bold;
+color: rgba(223, 18, 18, 0.627);
+text-transform:capitalize;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .didILetter {
+  font-size: 40px;
+  font-weight:initial;
+  color: #5c26c9;
+  text-decoration:underline;
+  font-family: 'ceviche one', cursive;
 }
 
 .didDTwoLetter {
+  font-size: 50px;
+  font-weight: 900;
+  color: #f0a500;
+  text-decoration: overline;
+  text-transform: uppercase;
+  font-family: 'raleway dots', cursive;
 }
 
 /* THE word */
 
 .theTLetter {
+  font-size: 50px;
+  font-weight: bold;
+  color: #ff6347;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Piazzolla', sans-serif;
 }
 
 .theHLetter {
+  font-size: 40px;
+  font-weight: normal;
+  color: #4682b4;
+  text-decoration: underline;
+  text-transform: Uppercase;
+  font-family: 'Ceviche One', sans-serif;
 }
 
 .theELetter {
+  font-size: 60px;
+  font-weight:900;
+  color: #0bb10b;
+  text-decoration: overline;
+  text-transform: lowercase;
+  font-family: 'Raleway Dots', sans-serif;
 }
 
 /* FRONT-END word */
 
 .frontendFLetter {
+  font-size: 50px;
+  font-weight: bold;
+  color: #ff4500;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Piazzolla', sans-serif;
 }
 
 .frontendRLetter {
+  font-size: 40px;
+  font-weight: normal;
+  color: hsl(324, 61%, 50%);
+  text-decoration:overline;
+  text-transform: lowercase;
+  font-family: 'Ceviche One', sans-serif;
 }
 
 .frontendOLetter {
+  font-size: 35px;
+  font-weight: 900;
+  color: #cd8532;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 .frontendNLetter {
+  font-size: 60px;
+  font-weight: bold;
+  color: #8a2be2;
+  text-decoration:line-through;
+  text-transform: lowercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .frontendTLetter {
+  font-size: 70px;
+  font-weight: normal;
+  color: #20b2aa;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Raleway Dots', sans-serif;
 }
 
 .frontendELetter {
+  font-size: 55px;
+  font-weight: 900;
+  color: #0d9237;
+  text-decoration: overline;
+  text-transform: lowercase;
+  font-family: 'Ceviche One', sans-serif;
 }
 
 .frontendNTwoLetter {
+  font-size: 45px;
+  font-weight: bold;
+  color: tomato;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-family: 'Piazzolla', sans-serif;
 }
 
 .frontendDLetter {
+  font-size: 65px;
+  font-weight: normal;
+  color: blueviolet;
+  text-decoration: line-through;
+  text-transform:uppercase;
+  font-family: 'Raleway Dots', sans-serif;
 }
 
 /* DEVELOPER word */
 
 .developerDLetter {
+  font-size: 60px;
+  font-weight: bold;
+  color: #ff6347;
+  text-decoration: overline;
+  text-transform: lowercase;
+  font-family: 'Piazzolla', sans-serif;
 }
 .developerELetter {
 }
